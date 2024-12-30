@@ -1,0 +1,41 @@
+h2{
+    color: red;
+}
+p{
+    color: black;
+    font-size: 36px;
+}
+h1{
+    color: red;
+    position: absolute;
+    top: 0;
+    line-height: 80px;
+}
+header,section,footer{
+    background-color: brown;
+    border: 5px #9d8189 dotted;
+    padding: 30px 50px;
+    margin: 30px;
+}
+*{
+    padding: 6;
+    margin: 6;
+}
+header li{
+    display: inline;
+    margin-right: 4vw;
+}
+header{
+    background-color: yellowgreen;
+    height: 95px;
+    width: 100%;
+    position: relative;
+}
+header ul{
+    position: absolute;
+    right: 5vw;
+    top: 0;
+}
+.news{
+    background-color: antiquewhite;
+}
